@@ -83,8 +83,8 @@ color: #61B331;
 }
 
 header .navbar-collapse  ul.navbar-nav {
-    float: right;
-    margin-right: 0;
+    float:right;
+    margin-right:155px;
 }
 
 header .navbar-default{
