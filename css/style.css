@@ -79,7 +79,7 @@ header .navbar {
     padding: 0 0 0 15px;
 }
 .navbar-default .navbar-brand{
-color: #61B331;
+color: #147fa0;
 }
 
 header .navbar-collapse  ul.navbar-nav {
@@ -247,7 +247,7 @@ header ul.nav li ul li a {
 
 .navbar .nav a:hover {
 	background:none;
-	color: #14A085 !important;
+	color: #147fa0 !important;
 }
 
 .navbar .nav > .active > a,.navbar .nav > .active > a:hover {
@@ -287,7 +287,7 @@ header ul.nav li ul li ul {
   content:none;
 }
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
-color: #14A085;
+color: #147fa0;
 }
 
 
@@ -568,13 +568,13 @@ section.callaction {
 ==================================== */
 
 #inner-headline{
-	background: #14A085;
+	background: #147fa0;
 	position:relative;
 	margin:0;
 	padding:0;
 	color:#fefefe;
 	/* margin: 15px; */
-	border-top: 10px solid #11967C;
+	border-top: 10px solid #147fa0;
 }
 
 
@@ -792,7 +792,7 @@ form#commentform textarea {
 	height: 91%;
 	opacity: 0.50;
 	filter: alpha(opacity=80);
-	background: #14A085;
+	background: #147fa0;
 }
 
 .item-thumbs .hover-wrap .overlay-img-thumb {
@@ -828,7 +828,7 @@ margin-right: 15px;
 ul.portfolio-categ li a{
 	display:block;
 	padding: 8px 20px;
-	color: #14A085;
+	color: #147fa0;
 }
 ul.portfolio-categ li.active{
 
@@ -895,7 +895,7 @@ box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
 background: #ed5441;
 } 
 .progress .progress-bar.progress-bar-green {
-background: #51d466;
+background: #147fa0;
 }
 .progress .progress-bar.progress-bar-lblue {
 background: #32c8de;
@@ -970,7 +970,7 @@ blockquote cite a:visited 				{ color:#555; }
 
 /* --- button --- */
 .btn{text-align: center;
-background: #14A085;
+background: #147fa0;
 color: #fff;
 border-radius: 0;padding: 10px 30px;}
 .btn-theme {
@@ -999,7 +999,7 @@ ul.link-list li{
 	list-style:none;
 }
 footer{
-background: #14A085;
+background: #147fa0;
 }
 footer ul.link-list li a{
 	color: #FFFFFF;
@@ -1243,7 +1243,7 @@ background: #F9F9F9;
 .pricing-box-item .pricing-terms  h6 {
 	font-style:italic;
 	margin-top:10px;
-	color: #14A085;
+	color: #147fa0;
 	font-size: 22px;
 	font-family:'Noto Serif', serif;
 }
@@ -1354,7 +1354,7 @@ ul.social-network li {
 	padding:0;
 	padding-top:30px;
 	margin:20px 0 0 0;
-	background: #14A085;
+	background: #147fa0;
 }
 
 #sub-footer p{
